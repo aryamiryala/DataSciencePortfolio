@@ -5,7 +5,7 @@ As an NBA fan I was curious if the amount of three pointers made contributes to 
 
 <h1>Contents</h1>
 
-PythonWebScraping: Simple web scraping example using Python's beautifulsoup and pandas. All work done in Jupyter Notebook and created a csv file from data found on real website
+PythonWebScraping: Simple web scraping example using Python's beautifulsoup and pandas. All work done in Jupyter Notebook and created a csv file from data found on real website after converting it into a pandas dataframe
 
 <h1>In Progress</h1>
 
