@@ -1,4 +1,4 @@
-**Data Science Portfolio**
+<h1>**Data Science Portfolio**</h1>
 
 A collection of data science projects I have done to demonstrate skill sets, knowledge. 
 As an NBA fan I was curious if the amount of three pointers made contributes to how high up on the all time points list a player was.
