@@ -9,7 +9,9 @@ As an NBA fan I was curious if the amount of three pointers made contributes to 
 
 - ExploratoryDataAnalysis: performed Exploratory Data Analysis on csv I generated from webscraping. Took steps such as importing and reading the data, understanding the data, preparing and cleaning up the data, feature understanding, and lastly exported cleaned up data back to a csv file for visualizations.
 
+- DataVisualization: made visualizations using Tableau to explore the question I wanted to answer. I created various workbooks and compiled them all into one dashboard for better viewing. From creating the visualizations I was able to better answer my question and learn what contributes the most to how high a player was on the list. 
+
 <h1>In Progress</h1>
 
 - SQL Projects
-- Data Visualization of CSV file I made
+- ML reinforcement learning algorithms
