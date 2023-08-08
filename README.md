@@ -11,6 +11,9 @@ As an NBA fan I was curious if the amount of three pointers made contributes to 
 
 - DataVisualization: made visualizations using Tableau to explore the question I wanted to answer. I created various workbooks and compiled them all into one dashboard for better viewing. From creating the visualizations I was able to better answer my question and learn what contributes the most to how high a player was on the list. 
 
+Click this link to view the dashboard: https://public.tableau.com/app/profile/arya.miryala/viz/dashboard_NBA_Points/NBAAllTimePoints?publish=yes
+
+
 <h1>In Progress</h1>
 
 - SQL Projects
